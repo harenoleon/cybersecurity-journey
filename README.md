@@ -1,18 +1,37 @@
-# 🛡️ cybersecurity-journey
-My journey learning cybersecurity, blue team, and hands-on projects
+# 🛡️ Cybersecurity Journey - Parint ( Leon )
 
 ## 👨‍💻 About Me
-Aspiring Blue Team Analyst
+Aspiring Cybersecurity Analyst (Blue Team)  
+Focused on SOC, log analysis, and threat detection  
+
+---
+
+## 🚀 What I'm Doing
+- Learning cybersecurity through hands-on labs  
+- Building real-world projects  
+- Practicing Linux and Python  
+
+---
 
 ## 📚 Learning
-- Linux
-- Python
-- Networking
+- Linux  
+- Python  
+- Networking  
 
-## 💻 Projects
-- Bitcoin Node
-- PDF Automation 
-- Log Analyzer (in progress)
+---
 
 ## 🧪 Practice
-- TryHackMe
+- TryHackMe (Linux Fundamentals, Pre Security)
+
+---
+
+## 💻 Projects
+- 🔹 Bitcoin Node (setup & sync)
+- 🔹 PDF Automation (E-tax workflow)
+- 🔹 Log Analyzer (in progress)
+
+---
+
+## 🎯 Current Focus
+- Blue Team (SOC Analyst path)
+- Log analysis & attack detection
