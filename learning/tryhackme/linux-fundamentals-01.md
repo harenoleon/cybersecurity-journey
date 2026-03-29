@@ -6,7 +6,7 @@ Learn basic Linux commands and how to interact with the filesystem
 ---
 
 ## 💻 Commands Used
-```bash
+
 whoami
 ls
 cat
